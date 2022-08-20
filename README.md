@@ -1,5 +1,5 @@
 # AyazNazir
- [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayaz-nazir-141a37203/)]([[https://www.linkedin.com/in/kunalraghav/](https://www.linkedin.com/in/ayaz-nazir-141a37203/)](https://www.linkedin.com/in/ayaz-nazir-141a37203/)) [![Dev.to Badge](https://img.shields.io/badge/-@Hamid-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.com/@ayaznazir)](https://dev.to/ayaznazir)
+ [![Linkedin Badge](https://img.shields.io/badge/-ayaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayaz-nazir-141a37203/)]([[https://www.linkedin.com/in/kunalraghav/](https://www.linkedin.com/in/ayaz-nazir-141a37203/)](https://www.linkedin.com/in/ayaz-nazir-141a37203/)) [![Dev.to Badge](https://img.shields.io/badge/-@Ayaz-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.com/@ayaznazir)](https://dev.to/ayaznazir)
 [![Gmail Badge](https://img.shields.io/badge/-ayaznazir2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayaznazir2002@gmail.com)](mailto:ayaznazir2002@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaznazir&label=Profile%20views&color=0e75b6&style=flat" alt="ayaznazir" /> </p>
