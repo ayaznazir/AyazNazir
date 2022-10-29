@@ -10,11 +10,11 @@
 I am a Mobile App Developer who love to create beautifull user interface while facilitating the world with User Experience with my Skills.
  
  
- - 👯 I’m looking for Flutter and React Native Application.
+ - 👯 I’m looking for Flutter Application.
  
  - 💬 Ask me about Mobile App Development, Front-End dev, and any Tech-related stuff.
  
- - ⚡ Languages:  Dart, Javascript & Typescript
+ - ⚡ Languages:  Dart, Javascript & Java
 
 
  ---
