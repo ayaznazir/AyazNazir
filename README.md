@@ -21,7 +21,7 @@ I am a Mobile App Developer who love to create beautifull user interface while f
  
  ### Tech & Tools Preference
 <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" width="300" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dart-logo-wordmark.svg/2560px-Dart-logo-wordmark.svg.png" width="300" height="100">
+<img src="https://ih1.redbubble.net/image.1161808169.7098/st,small,507x507-pad,600x600,f8f8f8.jpg" width="300" height="50">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
