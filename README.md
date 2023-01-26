@@ -37,8 +37,7 @@ I am a Mobile App Developer who love to create beautifull user interface while f
 
 ## Statistics
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaznazir&count_private=true&show_icons=true&theme=synthwave&hide_border=true" alt="darkterminal" />
+
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayaznazir&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" />
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayaznazir&layout=compact&theme=synthwave&hide_border=true" alt="Wakatime"> -->
 </p>
